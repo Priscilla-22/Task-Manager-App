@@ -6,7 +6,7 @@ A full-stack task management application with authentication, built with:
 - **Database**: PostgreSQL
 - **CI/CD**: GitHub Actions
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](https://ik.imagekit.io/lzdm7pnd7/Screenshot%20from%202025-04-02%2018-00-56.png?updatedAt=1743606149819)
 
 ## Features
 
